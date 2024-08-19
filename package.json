@@ -1,0 +1,17 @@
+{
+  "name": "angularjs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular-extended": "^1.0.5"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
